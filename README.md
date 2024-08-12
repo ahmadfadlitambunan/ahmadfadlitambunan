@@ -73,7 +73,7 @@ Pollens Counter is a web-based using Object Detection for counting pollens numbe
 
 ### Demo
 <div align="center">
-  <img src="/assets/0812.gif">
+  <img src="./assets/0812.gif">
 </div>
 
 ## [2) Human Counter (Object Detection and Tracking)](https://github.com/ahmadfadlitambunan/Human-Counting-Abbey-Road-Crossing)
@@ -81,7 +81,7 @@ Pollens Counter is a web-based using Object Detection for counting pollens numbe
 This project implemented YoloV8 for object detection and DeepSort Tracker for tracking human instances.
 ### Demo
 <div align="center">
-  <img src="/assets/HumanCounting.gif">
+  <img src="./assets/HumanCounting.gif">
 </div>
 
 ## [3) FormFitAI : Assistant Trainer for Correcting Your Technique with AI/ML 💪 (Pose Estimator)](https://github.com/johansen08/FormFitAI)
@@ -94,7 +94,7 @@ The FormFit AI app utilizes AI/ML technology to provide real-time feedback on ex
 * Accomplished to gain data with 40+ pull-up videos and extracted it into a csv dataset with 10000+ rows.
 ### Demo
 <div align="center">
-  <img src="/assets/FormFitAI.gif">
+  <img src="./assets/FormFitAI.gif">
 </div>
 
 
