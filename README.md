@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Ahmad Fadli Tambunan</h1>
-  <h3>Machine Learning Engineer and Data Scientist</h3>
+  <h3>Machine Learning Engineer and Data Scientist 🤖📈</h3>
 </div>
 
 <h2>👨🏻‍💻 About Me</h2>
@@ -59,10 +59,10 @@ I am a forth-year undergraduate student at Universitas Sumatera Utara, majoring 
   </a>
 </p>
 
-
+<br>
 <h2>💼 Projects</h2>
 
-## 1) Palm Oil Pollens Counter (Object Detection)
+## 1) Palm Oil Pollens Counter (Object Detection) - [Pusat Penelitian Kelapa Sawit](https://iopri.co.id/)
 ### Overview
 Pollens Counter is a web-based using Object Detection for counting pollens number based on three categories; Healthy, Unhealty, and Dead. This project is useful for reasearchers at IOPRI to conduct research on oil palm seeds. They could upload a picture of Palm Oil Pollens and this app could serve them information about numbers of pollens from the picture.
 
@@ -73,17 +73,19 @@ Pollens Counter is a web-based using Object Detection for counting pollens numbe
 
 ### Demo
 <div align="center">
-  <h1>Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Ahmad Fadli Tambunan</h1>
-  <h3>Machine Learning Engineer and Data Scientist</h3>
+  <img src="https://github.com/ahmadfadlitambunan/ahmadfadlitambunan/blob/main/assets/0812.gif">
 </div>
 
-
-## 2) Human Counter (Object Detection and Tracking)
+## [2) Human Counter (Object Detection and Tracking)](https://github.com/ahmadfadlitambunan/Human-Counting-Abbey-Road-Crossing)
 ### Overview
 This project implemented YoloV8 for object detection and DeepSort Tracker for tracking human instances.
 ### Demo
+<div align="center">
+  <img src="https://github.com/ahmadfadlitambunan/ahmadfadlitambunan/blob/main/assets/HumanCounting.gif">
+</div>
 
-## 3) FormFitAI : Assistant Trainer for Correcting Your Technique with AI/ML 💪 (Pose Estimator)
+## [3) FormFitAI : Assistant Trainer for Correcting Your Technique with AI/ML 💪 (Pose Estimator)](https://github.com/johansen08/FormFitAI)
+### Overview
 The FormFit AI app utilizes AI/ML technology to provide real-time feedback on exercise form, focusing on pull-ups, push-ups, and squats. Offering cost-effective guidance, it ensures users perform exercises safely and effectively, addressing the potential risks of injury associated with incorrect form.
 
 **My Involvement in this project :**
@@ -91,6 +93,10 @@ The FormFit AI app utilizes AI/ML technology to provide real-time feedback on ex
 * Ascertained solutions for the Machine Learning division to solve 'camera angle problem'.
 * Accomplished to gain data with 40+ pull-up videos and extracted it into a csv dataset with 10000+ rows.
 ### Demo
+<div align="center">
+  <img src="https://github.com/ahmadfadlitambunan/ahmadfadlitambunan/blob/main/assets/FormFitAI.gif">
+</div>
+
 
 
 
